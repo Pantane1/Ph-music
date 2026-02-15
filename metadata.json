@@ -1,0 +1,7 @@
+{
+  "name": "Gemini DJ: Dual Deck Pro",
+  "description": "A professional-grade mobile DJ station featuring dual decks, automatic BPM-synced crossfading, AI-powered track analysis, and smart playlists.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
